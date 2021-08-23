@@ -1,5 +1,3 @@
-README.Rmd
-================
 
 ## Jel to to konacno
 
