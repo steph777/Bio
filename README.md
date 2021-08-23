@@ -1,4 +1,4 @@
-README.Rmd
+Napraavi ga konacno Knicaninac
 ================
 
 ## Ovo je website za dragana i djuricu
